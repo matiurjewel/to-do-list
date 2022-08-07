@@ -111,3 +111,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.checked {
+  text-decoration: line-through;
+}
